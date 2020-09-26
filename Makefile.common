@@ -1,0 +1,6 @@
+.PHONY: play build
+
+play:
+	@echo "My Common: $(NAME) $(VERSION)"
+build:
+	@echo "I'm $(NAME)!"
